@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules/
+dist
+dist-ssr
+*.local
+images/NWY.jpg
+images/abraçadin.jpg
+images/caretinha.jpg
+images/crias.jpg
+images/espontânea.jpg
+images/fofis.jpg
+images/primeiro_encontro.jpg
+images/zoinho.jpg
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
