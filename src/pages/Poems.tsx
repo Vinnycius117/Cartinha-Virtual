@@ -5,22 +5,22 @@ export default function Poems() {
     {
       title: 'Teu Olhar',
       content: 'Teu olhar é como o céu estrelado,\nOnde me perco e me encontro ao mesmo tempo...',
-      background: 'images/abraçadin.jpg'
+      background: '/images/abraçadin.jpg'
     },
     {
       title: 'Nosso Amor',
       content: 'Como pétalas ao vento,\nNosso amor dança livre e leve...',
-      background: 'images/Bjin_no_pescoço.jpg'
+      background: '/images/Bjin_no_pescoço.jpg'
     },
     {
       title: 'Entre Risos e Amor',
       content: 'Nossas brincadeiras enchem o dia, \nDe amor, de paz e de alegria...',
-      background: 'images/crias.jpg'
+      background: '/images/crias.jpg'
     },
     {
       title: 'Dois Corações, Uma Alma',
       content: 'Dois caminhos que se unem em uma só direção, \nDois corações que batem em perfeita sintonia e emoção...',
-      background: 'images/NWY.jpg'
+      background: '/images/NWY.jpg'
     }
   ];
 

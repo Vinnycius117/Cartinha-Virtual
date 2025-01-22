@@ -3,15 +3,15 @@ import React from 'react';
 export default function Photos() {
   const photos = [
     {
-      url: 'images/primeiro_encontro.jpg',
+      url: '/images/primeiro_encontro.jpg',
       caption: 'Nosso primeiro encontro'
     },
     {
-      url: 'images/espontânea.jpg',
+      url: '/images/espontânea.jpg',
       caption: 'Momentos especiais'
     },
     {
-      url: 'images/zoinho.jpg',
+      url: '/images/zoinho.jpg',
       caption: 'Meu Lar'
     },
     
