@@ -1,20 +1,18 @@
-import React from 'react';
 
 export default function Photos() {
   const photos = [
     {
-      url: 'public/images/primeiro_encontro.jpg',
+      url: '/images/primeiro_encontro.jpg', // Caminho relativo à raiz do site
       caption: 'Nosso primeiro encontro'
     },
     {
-      url: 'public/images/espontânea.jpg',
+      url: '/images/espontânea.jpg', // Caminho relativo à raiz do site
       caption: 'Momentos especiais'
     },
     {
-      url: 'public/images/zoinho.jpg',
+      url: '/images/zoinho.jpg', // Caminho relativo à raiz do site
       caption: 'Meu Lar'
     },
-    
   ];
 
   return (

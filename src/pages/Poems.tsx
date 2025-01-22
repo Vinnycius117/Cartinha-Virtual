@@ -1,26 +1,25 @@
-import React from 'react';
 
 export default function Poems() {
   const poems = [
     {
       title: 'Teu Olhar',
       content: 'Teu olhar é como o céu estrelado,\nOnde me perco e me encontro ao mesmo tempo...',
-      background: 'public/images/abraçadin.jpg'
+      background: '/images/abraçadin.jpg' // Caminho relativo à raiz do site
     },
     {
       title: 'Nosso Amor',
       content: 'Como pétalas ao vento,\nNosso amor dança livre e leve...',
-      background: 'public/images/Bjin_no_pescoço.jpg'
+      background: '/images/Bjin_no_pescoço.jpg' // Caminho relativo à raiz do site
     },
     {
       title: 'Entre Risos e Amor',
       content: 'Nossas brincadeiras enchem o dia, \nDe amor, de paz e de alegria...',
-      background: 'public/images/crias.jpg'
+      background: '/images/crias.jpg' // Caminho relativo à raiz do site
     },
     {
       title: 'Dois Corações, Uma Alma',
       content: 'Dois caminhos que se unem em uma só direção, \nDois corações que batem em perfeita sintonia e emoção...',
-      background: 'public/images/NWY.jpg'
+      background: '/images/NWY.jpg' // Caminho relativo à raiz do site
     }
   ];
 

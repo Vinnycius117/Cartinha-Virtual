@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { Heart } from 'lucide-react';
 import Home from './pages/Home';
